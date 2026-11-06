@@ -1,0 +1,2 @@
+03 Par o Impar
+Este codigo permite evaluar un numero entero proporcionado por el usuario para determinar mediante una condicion logica si el valor corresponde a un numero par o a un numero impar. Para lograrlo, implementa una estructura condicional if-else combinada con el operador modulo, el cual calcula el residuo de una division entera entre dos, permitiendo tomar decisiones segun el resultado obtenido.
