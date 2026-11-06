@@ -1,0 +1,2 @@
+04 Tabla de Multiplicar
+Este programa solicita un numero entero especifico al usuario y genera de manera automatica su respectiva tabla de multiplicar abarcando desde el uno hasta el diez. Su funcionamiento se basa en el uso de estructuras de control iterativas, especificamente bucles de tipo for o while, los cuales permiten repetir una operacion matematica de multiplicacion de forma controlada mientras se le da formato al texto de salida en pantalla.
