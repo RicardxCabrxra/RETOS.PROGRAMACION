@@ -1,0 +1,2 @@
+creador de texto
+Este codigo esta disenado para facilitar la generacion, escritura y creacion de archivos de texto directamente desde la ejecucion del programa. Utiliza funciones de manejo de archivos de la biblioteca estandar como fopen y fprintf, permitiendo al usuario ingresar contenido por la consola para guardarlo de manera persistente en el disco.
