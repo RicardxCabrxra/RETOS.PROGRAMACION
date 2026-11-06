@@ -1,0 +1,2 @@
+limpieza
+Este codigo implementa rutinas orientadas a la optimizacion y mantenimiento del flujo de ejecucion, abarcando tareas como la limpieza del buffer de entrada de la consola, la liberacion adecuada de memoria dinamica o el reestablecimiento de variables, asegurando que el programa funcione de manera estable sin errores de datos residuales.
