@@ -1,0 +1,2 @@
+13 Uso de Estructuras
+Este programa consolida el uso de estructuras en C mediante una aplicacion practica que demuestra la forma correcta de declarar, inicializar y manipular tipos de datos compuestos como si fueran variables simples dentro del codigo fuente. La implementacion sirve como ejemplo integrador para observar la sintaxis y el acceso a los miembros de una estructura, facilitando la organizacion modular de informacion compleja para futuros desarrollos de software.
