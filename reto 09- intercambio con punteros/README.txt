@@ -1,0 +1,2 @@
+09 Intercambio con Punteros
+Este programa se enfoca en el uso avanzado de la memoria mediante la implementacion de punteros, operadores de direccion y desreferenciacion en el lenguaje C. El objetivo principal es disenar y definir una funcion especializada que reciba dos variables distintas por referencia utilizando sus direcciones de memoria, lo que permite manipular directamente los valores almacenados y lograr un intercambio exitoso de sus contenidos de manera eficiente dentro del flujo del sistema.
