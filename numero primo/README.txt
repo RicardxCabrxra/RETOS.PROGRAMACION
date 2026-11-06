@@ -1,0 +1,2 @@
+numero primo
+Este codigo evalua un numero entero ingresado por el usuario para determinar si se trata de un numero primo, es decir, si solo es divisible entre si mismo y entre uno. Para lograrlo, implementa estructuras de control repetitivas y operadores aritmeticos como el modulo, realizando pruebas de divisibilidad desde el dos hasta el valor anterior al numero evaluado.
