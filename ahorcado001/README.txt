@@ -1,0 +1,2 @@
+ahorcado001
+Este programa implementa el clasico juego del ahorcado en el lenguaje C. Su funcionamiento se basa en el manejo de arreglos de caracteres, cadenas y bucles iterativos para permitir que el usuario ingrese letras de manera interactiva, validando si se encuentran dentro de una palabra secreta oculta y controlando el numero de intentos disponibles antes de perder.
