@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\OneDrive\\PROYECTS\\RETOS\\RETOS.PROGRAMACION\\multiplicacion de matrices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C50D4F-2BEC-411F-BEF7-866DA52D8F43}|002\\002.vcxproj|C:\\Users\\ricar\\OneDrive\\PROYECTS\\RETOS\\RETOS.PROGRAMACION\\multiplicacion de matrices\\002\\002.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21C50D4F-2BEC-411F-BEF7-866DA52D8F43}|002\\002.vcxproj|solutionrelative:002\\002.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "002.cpp",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\PROYECTS\\RETOS\\RETOS.PROGRAMACION\\multiplicacion de matrices\\002\\002.cpp",
+              "RelativeDocumentMoniker": "002\\002.cpp",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\PROYECTS\\RETOS\\RETOS.PROGRAMACION\\multiplicacion de matrices\\002\\002.cpp",
+              "RelativeToolTip": "002\\002.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-06T07:05:15.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
