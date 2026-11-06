@@ -1,0 +1,2 @@
+06 Mayor de Tres Numeros
+Este programa tiene como objetivo leer tres numeros enteros distintos introducidos por el usuario para realizar un analisis logico y determinar cual de ellos posee el valor mayor. La logica se construye mediante el uso de estructuras condicionales anidadas y operadores logicos de conjuncion, evaluando las relaciones de mayor que entre las variables hasta identificar con precision el numero maximo.
