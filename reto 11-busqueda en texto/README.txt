@@ -1,0 +1,2 @@
+11 Busqueda en Texto
+Este ejercicio esta orientado al manejo de arreglos de caracteres y cadenas de texto, abordando la captura de una frase completa incluyendo espacios. La logica del programa consiste en solicitar un caracter especifico despues de haber ingresado el texto, para posteriormente recorrer cada posicion de la cadena mediante un algoritmo de busqueda que permita verificar si el caracter fue encontrado dentro de la frase y determinar con exactitud en que posicion numerica se localiza.
