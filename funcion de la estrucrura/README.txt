@@ -1,0 +1,2 @@
+funcion de la estructura
+Este codigo profundiza en la modularizacion del software mediante el uso de funciones que reciben estructuras o apuntadores a estructuras como parametros. Su proposito principal es demostrar la transferencia de datos complejos entre diferentes bloques de codigo, permitiendo manipular y procesar atributos personalizados de manera limpia y eficiente.
