@@ -1,0 +1,2 @@
+lector de texto
+Este programa se encarga de abrir, leer y mostrar en la consola el contenido almacenado previamente en archivos de texto externos. Emplea funciones de lectura como fgets o fscanf junto con la gestion de punteros a archivos, lo que permite procesar la informacion linea por linea para su visualizacion correcta por parte del usuario.
