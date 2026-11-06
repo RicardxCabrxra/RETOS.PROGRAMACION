@@ -1,0 +1,2 @@
+07 Suma de un Arreglo
+Este codigo introduce el manejo de estructuras de almacenamiento de datos estaticos mediante la creacion de un arreglo unidimensional capaz de almacenar cinco numeros enteros. Utilizando la combinacion de la declaracion de arreglos, la inicializacion de elementos y bucles de recorrido, el programa procesa cada indice de la estructura para acumular los valores y calcular la suma total de todos los elementos contenidos en el arreglo.
