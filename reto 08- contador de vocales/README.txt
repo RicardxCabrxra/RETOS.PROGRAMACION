@@ -1,0 +1,2 @@
+08 Contador de Vocales
+Este programa se enfoca en el procesamiento y manipulacion de cadenas de caracteres o arreglos de texto. La aplicacion solicita al usuario una palabra o frase y recorre cada caracter de manera individual mediante bucles y estructuras de seleccion multiple como switch-case, lo que permite evaluar cada letra para identificar y contar de forma exacta cuantas vocales contiene la cadena ingresada.
