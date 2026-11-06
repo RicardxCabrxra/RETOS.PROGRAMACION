@@ -1,0 +1,2 @@
+05 Factorial de un Numero
+Este ejercicio aborda el calculo matematico del factorial correspondiente a un numero entero positivo ingresado por el usuario. La solucion requiere la implementacion de bucles iterativos junto con variables acumuladoras que realizan multiplicaciones sucesivas desde el uno hasta el numero indicado. Asimismo, se consideran aspectos avanzados como el control de tipos de datos para prevenir problemas de desbordamiento al manejar numeros cuyo resultado crece rapidamente.
