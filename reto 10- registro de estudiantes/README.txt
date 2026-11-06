@@ -1,0 +1,2 @@
+10 Registro de Estudiante
+Este codigo profundiza en la creacion y utilizacion de tipos de datos personalizados conocidos como estructuras o structs. El programa plantea la definicion de una estructura disenada para almacenar de forma organizada multiples atributos correspondientes a un alumno, tales como su nombre, su edad y un conjunto de calificaciones. Posteriormente, procesa esta informacion para calcular el promedio academico general y mostrar todos los datos recopilados de manera estructurada en la pantalla de la consola.
