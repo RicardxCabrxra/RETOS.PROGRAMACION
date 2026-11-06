@@ -1,0 +1,2 @@
+multiplicacion de matrices
+Este programa realiza operaciones matematicas avanzadas con arreglos bidimensionales, especificamente el producto de matrices. Requiere el uso de bucles anidados triples para recorrer las filas y columnas correspondientes, aplicando las reglas algebraicas de multiplicacion y acumulacion para obtener la matriz resultante de forma correcta.
