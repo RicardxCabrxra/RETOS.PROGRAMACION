@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01--busqueda de caracteres.vcxproj" Id="69fb3433-4072-4cc0-948e-2423cb2e4fb1" />
+</Solution>
