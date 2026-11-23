@@ -1,0 +1,62 @@
+Fase 1 (Horca vacía):
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+Fase 2 (Cabeza):
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+
+Fase 3 (Torso):
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+
+Fase 4 (Brazo izquierdo):
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+
+Fase 5 (Brazo derecho):
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+
+Fase 6 (Pierna izquierda):
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+
+Fase 7 (Pierna derecha / Fin del juego):
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========

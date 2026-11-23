@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="03--despliegue con lectura.vcxproj" Id="984dc191-e2c1-4851-a060-ae4da8b80576" />
+</Solution>
